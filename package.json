@@ -1,0 +1,19 @@
+{
+  "name": "simple-web-scraper",
+  "version": "1.0.0",
+  "description": "simple web scraper",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Cristian Lopez",
+  "license": "ISC"
+}
